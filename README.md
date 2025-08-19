@@ -7,7 +7,7 @@ This assignment is part of the **DevOps for Beginners FREE Cohort** led by [Prav
 
 ---
 
-## 📌 Week 2 – Git & GitHub Assignment
+## Week 2 – Git & GitHub Assignment
 
 In this assignment, you will:
 
@@ -23,7 +23,7 @@ In this assignment, you will:
 
 ---
 
-## 📝 Submission Guidelines
+## Submission Guidelines
 
 - Replace all `[PLACEHOLDER]` text in the provided **assignment HTML file** with your answers.
 - Include:
@@ -35,7 +35,7 @@ In this assignment, you will:
 
 ---
 
-## 🎯 Learning Objective
+## Learning Objective
 
 By completing this assignment, you will:
 
@@ -48,13 +48,13 @@ By completing this assignment, you will:
 
 ---
 
-## ✅ Example
+## Example
 
 > *“If an application fails to connect to the database, I can check `git log` to see who last modified the configuration file and when. This helps me debug without touching the actual code.”*
 
 ---
 
-## 🙌 Acknowledgment
+## Acknowledgment
 
 This assignment is part of the **DevOps for Beginners FREE Cohort** by **Pravin Mishra**.  
 For complete lectures and hands-on practice, check the YouTube playlist:  
